@@ -1,0 +1,426 @@
+{
+    "fever": {
+        "explanation": "Fever is the body's natural defense against infection.",
+        "symptoms": [
+            "Warmness",
+            "Sweating",
+            "Chills",
+            "Headache",
+            "Muscle aches"
+        ],
+        "solutions": [
+            "Rest",
+            "Drink fluids",
+            "Take paracetamol or ibuprofen"
+        ],
+        "steps": [
+            "Check temperature with a thermometer.",
+            "Drink water or electrolytes every hour.",
+            "Take fever-reducing medicine if needed."
+        ]
+    },
+    "cold": {
+        "explanation": "Cold is a viral infection affecting nose and throat.",
+        "symptoms": [
+            "Runny nose",
+            "Sore throat",
+            "Sneezing",
+            "Cough"
+        ],
+        "solutions": [
+            "Drink warm fluids",
+            "Use lozenges",
+            "Take vitamin C"
+        ],
+        "steps": [
+            "Start with warm fluids (tea/soup).",
+            "Take rest and avoid cold air.",
+            "Use home remedies or OTC meds as needed."
+        ]
+    },
+    "flu": {
+        "explanation": "Influenza (flu) is a contagious respiratory illness caused by influenza viruses.",
+        "symptoms": [
+            "Fever",
+            "Chills",
+            "Muscle aches",
+            "Cough",
+            "Congestion",
+            "Fatigue"
+        ],
+        "solutions": [
+            "Rest",
+            "Drink plenty of fluids",
+            "Antiviral medications if prescribed"
+        ],
+        "steps": [
+            "Isolate yourself to prevent spread.",
+            "Use a humidifier to ease breathing.",
+            "Take prescribed antiviral drugs early."
+        ]
+    },
+    "diabetes": {
+        "explanation": "Diabetes is a chronic condition that affects how the body processes blood sugar (glucose).",
+        "symptoms": [
+            "Increased thirst",
+            "Frequent urination",
+            "Fatigue",
+            "Blurred vision",
+            "Slow healing"
+        ],
+        "solutions": [
+            "Maintain healthy diet",
+            "Regular exercise",
+            "Insulin therapy or medications"
+        ],
+        "steps": [
+            "Monitor blood glucose levels regularly.",
+            "Take medications as prescribed.",
+            "Consult healthcare provider for diet and lifestyle advice."
+        ]
+    },
+    "hypertension": {
+        "explanation": "High blood pressure, or hypertension, is a condition where the blood pressure in arteries is persistently elevated.",
+        "symptoms": [
+            "Often no symptoms",
+            "Headaches",
+            "Shortness of breath",
+            "Nosebleeds"
+        ],
+        "solutions": [
+            "Reduce salt intake",
+            "Exercise regularly",
+            "Take antihypertensive medications"
+        ],
+        "steps": [
+            "Monitor blood pressure at home.",
+            "Adopt a DASH diet.",
+            "Avoid smoking and excessive alcohol."
+        ]
+    },
+    "asthma": {
+        "explanation": "Asthma is a respiratory condition marked by spasms in the bronchi of the lungs, causing difficulty in breathing.",
+        "symptoms": [
+            "Shortness of breath",
+            "Chest tightness",
+            "Wheezing",
+            "Coughing"
+        ],
+        "solutions": [
+            "Use inhalers",
+            "Avoid triggers",
+            "Follow asthma action plan"
+        ],
+        "steps": [
+            "Use a peak flow meter to monitor lung function.",
+            "Take quick-relief inhalers during attacks.",
+            "Schedule regular check-ups."
+        ]
+    },
+    "pneumonia": {
+        "explanation": "Pneumonia is an infection that inflames the air sacs in one or both lungs.",
+        "symptoms": [
+            "Chest pain",
+            "Cough with phlegm",
+            "Fever",
+            "Difficulty breathing"
+        ],
+        "solutions": [
+            "Antibiotics (if bacterial)",
+            "Rest",
+            "Hydration"
+        ],
+        "steps": [
+            "Seek medical diagnosis for proper treatment.",
+            "Use oxygen therapy if necessary.",
+            "Complete full course of antibiotics."
+        ]
+    },
+    "tuberculosis": {
+        "explanation": "Tuberculosis (TB) is a contagious bacterial infection that mainly affects the lungs.",
+        "symptoms": [
+            "Persistent cough",
+            "Weight loss",
+            "Night sweats",
+            "Fever"
+        ],
+        "solutions": [
+            "Long-term antibiotic treatment",
+            "Isolation during contagious period"
+        ],
+        "steps": [
+            "Get tested if symptoms persist for more than 3 weeks.",
+            "Follow treatment plan strictly for 6-9 months.",
+            "Inform close contacts to get screened."
+        ]
+    },
+    "migraine": {
+        "explanation": "Migraine is a neurological condition characterized by intense headaches often accompanied by nausea and sensitivity to light and sound.",
+        "symptoms": [
+            "Throbbing headache",
+            "Nausea",
+            "Vomiting",
+            "Light and sound sensitivity"
+        ],
+        "solutions": [
+            "Avoid triggers",
+            "Take prescribed pain relief",
+            "Use rest and quiet environment"
+        ],
+        "steps": [
+            "Identify and avoid personal migraine triggers.",
+            "Use medications as prescribed by a doctor.",
+            "Maintain regular sleep and meal schedule."
+        ]
+    },
+    "arthritis": {
+        "explanation": "Arthritis involves inflammation of one or more joints, causing pain and stiffness.",
+        "symptoms": [
+            "Joint pain",
+            "Swelling",
+            "Reduced motion",
+            "Stiffness"
+        ],
+        "solutions": [
+            "Physical therapy",
+            "Pain relievers",
+            "Maintain healthy weight"
+        ],
+        "steps": [
+            "Engage in low-impact exercises like swimming.",
+            "Use heat or cold therapy for pain relief.",
+            "Take medications as directed."
+        ]
+    },
+    "depression": {
+        "explanation": "Depression is a mood disorder causing persistent feelings of sadness and loss of interest.",
+        "symptoms": [
+            "Persistent sadness",
+            "Loss of interest",
+            "Fatigue",
+            "Changes in appetite",
+            "Sleep disturbances"
+        ],
+        "solutions": [
+            "Psychotherapy",
+            "Medications",
+            "Lifestyle changes"
+        ],
+        "steps": [
+            "Seek professional mental health support.",
+            "Maintain social connections and physical activity.",
+            "Follow medication and therapy plans."
+        ]
+    },
+    "anemia": {
+        "explanation": "Anemia is a condition where you lack enough healthy red blood cells to carry adequate oxygen to your body's tissues.",
+        "symptoms": [
+            "Fatigue",
+            "Weakness",
+            "Pale skin",
+            "Shortness of breath"
+        ],
+        "solutions": [
+            "Iron supplements",
+            "Vitamin B12 and folate intake",
+            "Treat underlying causes"
+        ],
+        "steps": [
+            "Get blood tests to diagnose anemia type.",
+            "Follow dietary recommendations to boost iron.",
+            "Take supplements as prescribed."
+        ]
+    },
+    "allergy": {
+        "explanation": "Allergy is an immune system reaction to a foreign substance that's not typically harmful.",
+        "symptoms": [
+            "Sneezing",
+            "Itchy eyes",
+            "Runny nose",
+            "Rash",
+            "Swelling"
+        ],
+        "solutions": [
+            "Avoid allergens",
+            "Antihistamines",
+            "Use epinephrine for severe reactions"
+        ],
+        "steps": [
+            "Identify allergen triggers through testing.",
+            "Carry emergency medication if prescribed.",
+            "Wear medical alert identification if severe."
+        ]
+    },
+    "covid-19": {
+        "explanation": "COVID-19 is a respiratory illness caused by the SARS-CoV-2 virus.",
+        "symptoms": [
+            "Fever",
+            "Dry cough",
+            "Fatigue",
+            "Loss of taste or smell",
+            "Difficulty breathing"
+        ],
+        "solutions": [
+            "Isolation",
+            "Supportive care",
+            "Vaccination"
+        ],
+        "steps": [
+            "Get tested if symptoms develop.",
+            "Isolate from others to prevent spread.",
+            "Seek medical care if breathing difficulty worsens."
+        ]
+    },
+    "bronchitis": {
+        "explanation": "Bronchitis is inflammation of the bronchial tubes, often causing cough and mucus production.",
+        "symptoms": [
+            "Cough",
+            "Mucus production",
+            "Fatigue",
+            "Shortness of breath"
+        ],
+        "solutions": [
+            "Rest",
+            "Increase fluid intake",
+            "Avoid smoke and irritants"
+        ],
+        "steps": [
+            "Use humidifier to ease breathing.",
+            "Avoid exposure to lung irritants.",
+            "Use medications as prescribed."
+        ]
+    },
+    "eczema": {
+        "explanation": "Eczema is a condition that makes your skin red, itchy, and inflamed.",
+        "symptoms": [
+            "Dry skin",
+            "Itching",
+            "Redness",
+            "Rashes"
+        ],
+        "solutions": [
+            "Moisturizers",
+            "Avoid irritants",
+            "Topical corticosteroids"
+        ],
+        "steps": [
+            "Keep skin moisturized regularly.",
+            "Identify and avoid irritants.",
+            "Use prescribed creams and ointments."
+        ]
+    },
+    "gastroenteritis": {
+        "explanation": "Gastroenteritis is an intestinal infection marked by diarrhea, cramps, nausea, vomiting, and fever.",
+        "symptoms": [
+            "Diarrhea",
+            "Vomiting",
+            "Stomach pain",
+            "Fever"
+        ],
+        "solutions": [
+            "Hydration",
+            "Rest",
+            "Avoid solid foods until vomiting stops"
+        ],
+        "steps": [
+            "Drink oral rehydration salts or fluids frequently.",
+            "Avoid dairy and fatty foods initially.",
+            "Seek medical help if severe dehydration occurs."
+        ]
+    },
+    "hepatitis": {
+        "explanation": "Hepatitis is inflammation of the liver caused by viral infections or toxins.",
+        "symptoms": [
+            "Jaundice",
+            "Fatigue",
+            "Abdominal pain",
+            "Dark urine"
+        ],
+        "solutions": [
+            "Avoid alcohol",
+            "Rest",
+            "Antiviral medications for certain types"
+        ],
+        "steps": [
+            "Get vaccinated for hepatitis A and B.",
+            "Avoid sharing needles and unsafe sex.",
+            "Follow medical treatment plans."
+        ]
+    },
+    "stroke": {
+        "explanation": "Stroke occurs when blood flow to a part of the brain is interrupted.",
+        "symptoms": [
+            "Sudden numbness",
+            "Confusion",
+            "Trouble speaking",
+            "Loss of balance"
+        ],
+        "solutions": [
+            "Emergency medical treatment",
+            "Rehabilitation",
+            "Manage risk factors"
+        ],
+        "steps": [
+            "Call emergency services immediately.",
+            "Recognize FAST signs: Face drooping, Arm weakness, Speech difficulty, Time to call.",
+            "Follow doctor's advice for prevention."
+        ]
+    },
+    "chickenpox": {
+        "explanation": "Chickenpox is a highly contagious viral infection causing an itchy rash and red spots.",
+        "symptoms": [
+            "Itchy rash",
+            "Fever",
+            "Fatigue",
+            "Loss of appetite"
+        ],
+        "solutions": [
+            "Calamine lotion",
+            "Antihistamines",
+            "Rest"
+        ],
+        "steps": [
+            "Avoid scratching to prevent infection.",
+            "Keep skin clean and dry.",
+            "Isolate to prevent spread."
+        ]
+    },
+    "malaria": {
+        "explanation": "Malaria is a mosquito-borne infectious disease affecting red blood cells.",
+        "symptoms": [
+            "Fever",
+            "Chills",
+            "Sweats",
+            "Headache",
+            "Nausea"
+        ],
+        "solutions": [
+            "Antimalarial medications",
+            "Prevent mosquito bites"
+        ],
+        "steps": [
+            "Use mosquito nets and repellents.",
+            "Take prophylactic drugs if traveling to endemic areas.",
+            "Complete full course of treatment."
+        ]
+    },
+    "appendicitis": {
+        "explanation": "Appendicitis is inflammation of the appendix, often requiring surgery.",
+        "symptoms": [
+            "Abdominal pain",
+            "Nausea",
+            "Fever",
+            "Loss of appetite"
+        ],
+        "solutions": [
+            "Surgical removal (appendectomy)",
+            "Pain relief",
+            "Antibiotics"
+        ],
+        "steps": [
+            "Seek immediate medical attention if pain intensifies.",
+            "Avoid eating or drinking if appendicitis suspected.",
+            "Follow post-surgery care instructions."
+        ]
+    }
+}

@@ -1,0 +1,222 @@
+[2025-06-13 15:23:03] You: fever
+[2025-06-13 15:23:03] Bot: 
+🤖 *Fever*
+
+🧾 Explanation:
+Fever is the body's natural defense against infection.
+
+🩺 Symptoms:
+• Warmness
+• Sweating
+• Chills
+• Headache
+• Muscle aches
+
+💊 Solutions:
+• Rest
+• Drink fluids
+• Take paracetamol or ibuprofen
+
+🪜 Step-by-step Guide:
+Step 1: Check temperature with a thermometer.
+Step 2: Drink water or electrolytes every hour.
+Step 3: Take fever-reducing medicine if needed.
+
+[2025-06-13 15:23:07] You: 
+[2025-06-13 15:23:07] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-13 15:29:06] You: cold
+[2025-06-13 15:29:06] Bot: 
+🤖 *Cold*
+
+🧾 Explanation:
+Cold is a viral infection affecting nose and throat.
+
+🩺 Symptoms:
+• Runny nose
+• Sore throat
+• Sneezing
+• Cough
+
+💊 Solutions:
+• Drink warm fluids
+• Use lozenges
+• Take vitamin C
+
+🪜 Step-by-step Guide:
+Step 1: Start with warm fluids (tea/soup).
+Step 2: Take rest and avoid cold air.
+Step 3: Use home remedies or OTC meds as needed.
+
+[2025-06-13 15:30:49] You: Sorry, I couldn't understand that.
+[2025-06-13 15:30:49] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-13 15:30:53] You: 
+[2025-06-13 15:30:53] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-13 15:30:57] You: 
+[2025-06-13 15:30:57] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-13 15:31:03] You: hospital
+[2025-06-13 15:31:03] Bot: 🏥 For hospitals near you, search 'Hospitals near Muscat' on Google Maps.
+
+[2025-06-13 15:31:17] You: salam
+[2025-06-13 15:31:17] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-13 15:31:30] You: hospitals near muscat
+[2025-06-13 15:31:30] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-13 15:31:34] You: 
+[2025-06-13 15:31:34] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-13 15:32:03] You: 'Hospitals near Muscat'
+[2025-06-13 15:32:03] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-13 15:32:15] You: Hospitals near Muscat
+[2025-06-13 15:32:15] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-13 15:36:03] You: 
+[2025-06-13 15:36:03] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-13 15:36:27] You: hospitals
+[2025-06-13 15:36:27] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-13 15:39:08] You: exist
+[2025-06-13 15:39:08] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-13 15:39:18] You: 
+[2025-06-13 15:39:18] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-13 15:43:33] You: hospitals
+[2025-06-13 15:43:33] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-13 15:44:21] You: hospital
+[2025-06-13 15:44:21] Bot: 🏥 Nearby Hospitals:
+1. Hospital, Pedrafita do Cebreiro, Os Ancares, Lugo, Galicia, España
+2. Ninewells Hospital, Lochay Place, Charleston, Dundee, Dundee City, Alba / Scotland, DD1 9SY, United Kingdom
+3. Hospital, Cantón de San José, San José, 10103, Costa Rica
+4. Hospital, Valladolid, Castilla y León, España
+5. Hospital, The Municipal District of Cappamore — Kilmallock, County Limerick, Munster, Éire / Ireland
+
+
+[2025-06-13 15:45:39] You: fever
+[2025-06-13 15:45:39] Bot: 
+🤖 *Fever*
+
+🧾 Explanation:
+Fever is the body's natural defense against infection.
+
+🩺 Symptoms:
+• Warmness
+• Sweating
+• Chills
+• Headache
+• Muscle aches
+
+💊 Solutions:
+• Rest
+• Drink fluids
+• Take paracetamol or ibuprofen
+
+🪜 Step-by-step Guide:
+Step 1: Check temperature with a thermometer.
+Step 2: Drink water or electrolytes every hour.
+Step 3: Take fever-reducing medicine if needed.
+
+[2025-06-13 15:46:03] You: Sorry, I couldn't understand that.
+[2025-06-13 15:46:03] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-13 15:46:47] You: hospital
+[2025-06-13 15:46:47] Bot: 🏥 Nearby Hospitals:
+1. Hospital, Pedrafita do Cebreiro, Os Ancares, Lugo, Galicia, España
+2. Ninewells Hospital, Lochay Place, Charleston, Dundee, Dundee City, Alba / Scotland, DD1 9SY, United Kingdom
+3. Hospital, Cantón de San José, San José, 10103, Costa Rica
+4. Hospital, Valladolid, Castilla y León, España
+5. Hospital, The Municipal District of Cappamore — Kilmallock, County Limerick, Munster, Éire / Ireland
+
+
+[2025-06-13 15:48:36] You: exist
+[2025-06-13 15:48:36] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-13 15:48:40] You: 
+[2025-06-13 15:48:40] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-13 15:53:24] You: hospital
+[2025-06-13 15:53:24] Bot: 🏥 Nearby Hospitals in Muscat:
+1. Hospital, Pedrafita do Cebreiro, Os Ancares, Lugo, Galicia, España
+2. Ninewells Hospital, Dickson Avenue, Sutherland, Menzieshill, Dundee, Dundee City, Alba / Scotland, DD1 9SY, United Kingdom
+3. Hospital, Cantón de San José, San José, 10103, Costa Rica
+4. Hospital, Valladolid, Castilla y León, España
+5. Hospital, The Municipal District of Cappamore — Kilmallock, County Limerick, Munster, Éire / Ireland
+
+
+[2025-06-13 15:54:26] You: exist
+[2025-06-13 15:54:26] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-13 15:55:43] You: hospital
+[2025-06-13 15:55:43] Bot: 🏥 Nearby Hospitals in Muscat:
+1. Hospital, شارع السلام, صلالة, محافظة ظفار, 999, عمان
+
+
+[2025-06-13 15:57:36] You: hospital
+[2025-06-13 15:57:36] Bot: 🏥 Nearby Hospitals in Muscat:
+1. Oman International Hospital
+2. Athaiba Health Center
+3. National Endocrine and Diabetic Center
+4. National Genetics Center
+5. Amazon Medical Complex LLC
+6. المستشفى السلطاني
+7. مجمع صحي بوشر
+8. مستشفى مسقط الخاص
+9. المركز الوطني لطب وجراحة القلب
+10. المركز الوطني لعلاج الاورام
+
+
+[2025-06-14 16:03:24] You: 
+[2025-06-14 16:03:24] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-14 16:03:28] You: 
+[2025-06-14 16:03:28] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-14 16:03:32] You: 
+[2025-06-14 16:03:32] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-14 16:03:36] You: \
+[2025-06-14 16:03:36] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-14 16:03:41] You: 
+[2025-06-14 16:03:41] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-14 16:03:45] You: 
+[2025-06-14 16:03:45] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-14 16:03:49] You: 
+[2025-06-14 16:03:49] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-14 16:03:53] You: 
+[2025-06-14 16:03:53] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-14 16:03:57] You: 
+[2025-06-14 16:03:57] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-14 16:04:02] You: 
+[2025-06-14 16:04:02] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-14 16:04:06] You: 
+[2025-06-14 16:04:06] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-14 16:04:10] You: 
+[2025-06-14 16:04:10] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-14 16:04:14] You: 
+[2025-06-14 16:04:14] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-14 16:04:19] You: python -m spacy download en_core_web_sm
+[2025-06-14 16:04:19] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-14 16:30:00] You: 1
+[2025-06-14 16:30:00] Bot: 🤖 I didn’t understand. Try asking differently.
+
+[2025-06-14 16:30:24] You: exist
+[2025-06-14 16:30:24] Bot: 🤖 I didn’t understand. Try asking differently.
+

@@ -1,0 +1,118 @@
+[
+  {
+    "query": "fever",
+    "match": "fever"
+  },
+  {
+    "query": "fever,headeache,fatigue,cough,nausea",
+    "match": "fever"
+  },
+  {
+    "query": "fever",
+    "match": "fever"
+  },
+  {
+    "query": "fever",
+    "match": "fever"
+  },
+  {
+    "query": "cold",
+    "match": "cold"
+  },
+  {
+    "query": "cold",
+    "match": "cold"
+  },
+  {
+    "query": "fever",
+    "match": "fever"
+  },
+  {
+    "query": "fever",
+    "match": "fever"
+  },
+  {
+    "query": "fever",
+    "match": "fever"
+  },
+  {
+    "query": "cold",
+    "match": "cold"
+  },
+  {
+    "query": "fever",
+    "match": "fever"
+  },
+  {
+    "query": "cold",
+    "match": "cold"
+  },
+  {
+    "query": "fever",
+    "match": "fever"
+  },
+  {
+    "query": "cold",
+    "match": "cold"
+  },
+  {
+    "query": "covid 19",
+    "match": "covid-19"
+  },
+  {
+    "query": "fever",
+    "match": "fever"
+  },
+  {
+    "query": "cold",
+    "match": "cold"
+  },
+  {
+    "query": "I feel fever",
+    "match": "fever"
+  },
+  {
+    "query": "I have fever ",
+    "match": "fever"
+  },
+  {
+    "query": "I have hypertensio",
+    "match": "hypertension"
+  },
+  {
+    "query": "col",
+    "match": "cold"
+  },
+  {
+    "query": "cold",
+    "match": "cold"
+  },
+  {
+    "query": "       exit",
+    "match": "gastroenteritis"
+  },
+  {
+    "query": "fever",
+    "match": "fever"
+  },
+  {
+    "query": "cold",
+    "match": "cold"
+  },
+  {
+    "query": "fever",
+    "match": "fever"
+  },
+  {
+    "query": "asthma",
+    "match": "asthma"
+  },
+  {
+    "query": "fever",
+    "match": "fever"
+  },
+  {
+    "query": "cold",
+    "match": "cold"
+  }
+]
